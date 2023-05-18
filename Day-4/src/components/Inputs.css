@@ -1,0 +1,10 @@
+.Inp_txt{
+    display: flex;
+    justify-content: center;
+}
+
+.Inp_txt input{
+    height: 2rem;
+    margin: 10px;
+    border-radius: 5px;
+}
