@@ -1,9 +1,0 @@
-.img_bar{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.img_bar img{
-    width: 12rem;
-}
