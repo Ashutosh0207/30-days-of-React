@@ -1,0 +1,9 @@
+.txt{
+  text-align: center;
+}
+
+.images{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
